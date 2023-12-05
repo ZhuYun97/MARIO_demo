@@ -5,7 +5,7 @@ import torch.nn.functional as F
 from easyGOOD.utils.register import register
 from models.moco import MOCO
 from random import sample
-import faiss
+# import faiss
 import torch.nn as nn
 import numpy as np
 
